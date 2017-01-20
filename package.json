@@ -1,15 +1,18 @@
 {
-  "name"        : "listener",
-  "version"     : "1.0.0",
-  "description" : "",
-  "main"        : "src/Listener.js",
-  "types"       : "src/Listener.d.ts",
-  "scripts": { "test": "echo \"Error: no test specified\" && exit 1" },
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Listener.js",
+  "types": "src/Listener.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "dual",
     "event",
     "litener"
   ],
   "author": "hinell@github.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
