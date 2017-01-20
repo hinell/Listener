@@ -1,5 +1,3 @@
-/// <reference path="../typings/index.d.ts" />
-// type EventEmitter = EventTarget | EE;
 export interface InfoObj<EventEmitter> {
   origin        : EventEmitter
   target        : EventEmitter
