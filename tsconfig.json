@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs"                     : false,
+    "module"                      : "commonjs",
+    "target"                      : "es5",
+    "sourceMap"                   : false,
+    "suppressExcessPropertyErrors": false,
+    "removeComments"              : false,
+    "watch"                       : false,
+    "noImplicitAny"               : false,
+    "noEmitOnError"               : true
+  }
+  ,"files" : ["./typings/index.d.ts"]
+  ,"include": [
+    "./*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
