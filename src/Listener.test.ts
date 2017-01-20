@@ -1,4 +1,5 @@
-import {Listener} from './Listener'
+// Before test, run typings install
+import {Listener} from '../'
 import {EventEmitter} from 'events';
 // class EE extends EventEmitter {
 //   constructor() { super() }
