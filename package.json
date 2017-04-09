@@ -5,7 +5,7 @@
   "main": "src/Listener.js",
   "types": "src/Listener.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc && node src/test.js"
   },
   "keywords": [
     "dual",
